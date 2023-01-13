@@ -1,2 +1,3 @@
 # RoundRobin
-Simulacion del algoritmo round robin en java
+
+This is the code to develop an operating systems exercise, where the operation of the round robin algorithm is shown.
